@@ -102,6 +102,7 @@ reveal:
   maxScale: 1.5
 
 exclude: [
+  "status-mvp",
   "Gemfile",
   "Gemfile.lock",
   "vendor",
